@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image (266).jpg</filename>
+	<path>C:\Users\Moses Olafenwa\Documents\AI\Custom Datasets\Headset - Detection\post-processing\hololens\images\image (266).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>279</width>
+		<height>181</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hololens</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>31</ymin>
+			<xmax>244</xmax>
+			<ymax>58</ymax>
+		</bndbox>
+	</object>
+</annotation>

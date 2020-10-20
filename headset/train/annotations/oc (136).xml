@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>oc (136).jpg</filename>
+	<path>C:\Users\Moses Olafenwa\Documents\AI\Custom Datasets\Headset - Detection\post-processing\oculus\images\oc (136).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>163</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oculus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>16</ymin>
+			<xmax>213</xmax>
+			<ymax>62</ymax>
+		</bndbox>
+	</object>
+</annotation>
